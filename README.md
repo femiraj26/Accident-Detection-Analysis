@@ -4,7 +4,7 @@ This project analyzes road accident data to identify accident-prone zones, contr
 
 ## 📁 Files
 
-- `Accident_detection_.ipynb` – Main Jupyter Notebook
+- `Accident_detection_.ipynb` – Main Google Colab Notebook
 - `Road.csv` – Dataset used
 
 ## 📊 Key Findings
